@@ -17,8 +17,8 @@
 <br>
     
 <h3>📫How to Reach Me</h3>
-<Strong>💻Email</Strong> <br>12128_17@naver.com<br>
-<Strong>📱KakaoTalk</Strong> <br>kombi17<br>
+<Strong>💻Email : 12128_17@naver.com</Strong> <br>
+<Strong>📱KakaoTalk : kombi17</Strong> <br>
 
 
 
