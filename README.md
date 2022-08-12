@@ -8,7 +8,6 @@
 - 🌱 currently learning full-stack skills. 
 
 <br>
-<br>
 
 <h3>Ultimate Goal</h3>
 - ✨ Cheerful and Healthy life <br>
@@ -16,16 +15,18 @@
 - ✨ Don't be conceited <br>
 
 <br>
-<br>
     
-<h4>📱How to Reach Me</h4>
-    
-<Strong>👩‍💻DevLog</Strong> <br>
-<a href="https://devlogofkombi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<h3>📱How to Reach Me</h3>
+<span>
+    <Strong>👩‍💻DevLog</Strong> <br>
+    <a href="https://devlogofkombi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+</span>
 
 <br>
 
-<Strong>📫Email</Strong> <br>
-<a href="mailto:12128_17@naver.com"><img src="https://img.shields.io/badge/naver-green?style=for-the-badge&logo=naver&logoColor=white&link=mailto:12128_17@naver.com"/></a>
+<span>
+    <Strong>📫Email</Strong> <br>
+    <a href="mailto:12128_17@naver.com"><img src="https://img.shields.io/badge/naver-green?style=for-the-badge&logo=naver&logoColor=white&link=mailto:12128_17@naver.com"/></a>
+</span>
 
 
