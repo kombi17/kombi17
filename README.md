@@ -1,3 +1,5 @@
+<br>
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=welcome%20to%20KOMBI's%20Github&fontSize=50&animation=fadeIn)
 
 <br>
@@ -20,16 +22,14 @@
 
 <br><br>
 
-<!-- 나의 깃허브 상태 - 깃허브에 대한 평가 및 리드미 카드 -->
-<div align="center">
-    ![KOMBI's GitHub stats](https://github-readme-stats.vercel.app/api?username=kombi17&theme=flag-india)
-    ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kombi17&repo=github-readme-stats)
-</div>
-
-
+<!-- 나의 깃허브 상태 - 깃허브에 대한 평가 -->
+![KOMBI's Github Stats](https://github-readme-stats.vercel.app/api?username=kombi17&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kombi17&layout=compact&hide_border=true)
 
 <br><br>
 
+
+<hr> <br>
 <!-- 내 소개 -->
 <h3>Eunbi Ko</h3>
 - 🎓 major in Hindi <br>
@@ -47,7 +47,7 @@
 <h3>How to Reach Me</h3>
 - 💻Email : 12128_17@naver.com <br>
 - 📱KakaoTalk : kombi17 
- 
+
 
 
 
