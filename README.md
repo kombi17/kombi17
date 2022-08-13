@@ -20,10 +20,10 @@
 
 <br><br>
 
-<!-- 나의 깃허브 상태 나타내기 -->
+<!-- 나의 깃허브 상태 - 깃허브에 대한 평가 및 리드미 카드 -->
 <div align="center">
-    [![KOMBI's GitHub stats](https://github-readme-stats.vercel.app/api?username=kombi17&theme=flag-india)](https://github.com/kombi17/github-readme-stats)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kombi17&repo=github-readme-stats)](https://github.com/kombi17/github-readme-stats)
+    ![KOMBI's GitHub stats](https://github-readme-stats.vercel.app/api?username=kombi17&theme=flag-india)
+    ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kombi17&repo=github-readme-stats)
 </div>
 
 
